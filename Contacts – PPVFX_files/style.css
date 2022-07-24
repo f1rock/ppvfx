@@ -1091,9 +1091,13 @@ textarea {
 }
 
 @media (max-width: 769px) {
-  .map {
-    display: none;
+  .map-block {
+    display: none; 
 }
+.map {
+    display: none; 
+}
+
 }
 
 .clock {
